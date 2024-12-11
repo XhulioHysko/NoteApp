@@ -1,0 +1,17 @@
+
+c
+java:S1192P"HDefine a constant instead of duplicating this literal "Warning" 3 times.(˜‘ŸÒøÿÿÿÿ
+]
+java:S1192W"GDefine a constant instead of duplicating this literal "insert" 3 times.(¯ãâ¨
+0
+java:S1220""Move this file to a named package.
+_
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+g
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.( Â–-
+^
+java:S5361T"HReplace this call to "replaceAll()" by a call to the "replace()" method.(—Ï‘İ
+^
+java:S5361i"HReplace this call to "replaceAll()" by a call to the "replace()" method.(½ä­‹
+c
+java:S5361~"HReplace this call to "replaceAll()" by a call to the "replace()" method.(×ş†‰úÿÿÿÿ

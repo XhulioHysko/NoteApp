@@ -1,0 +1,28 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal "select" 4 times.(ğß†Ó
+0
+java:S1220""Move this file to a named package.
+D
+java:S1948")Make "testApp" transient or serializable.(ÚŸ¿âüÿÿÿÿ
+;
+java:S1948"%Make "allNotes" private or transient.(àÖŠå
+>
+java:S1948"#Make "allSda" private or transient.(éğòÿøÿÿÿÿ
+C
+java:S1948"(Make "allLaconics" private or transient.(Ì‘ê´ûÿÿÿÿ
+?
+java:S1948")Make "allUsersData" private or transient.(‰µú
+?
+java:S1948")Make "rowData" transient or serializable.(ˆìöÓ
+H
+java:S1948"-Make "columnNotes" transient or serializable.(ù·Íùÿÿÿÿ
+F
+java:S1948"+Make "columnSda" transient or serializable.(æÁÿÿÿÿÿ
+F
+java:S1948"0Make "columnLaconics" transient or serializable.(¡‚§÷
+_
+java:S3252/"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+_
+java:S3252Q"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+V	java:S125Y"<This block of commented-out lines of code should be removed.(½ğ¨Öøÿÿÿÿ

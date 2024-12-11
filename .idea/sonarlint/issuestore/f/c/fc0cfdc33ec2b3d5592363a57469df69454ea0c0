@@ -1,0 +1,27 @@
+
+‚
+java:S1192	"gDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/mobile_app" 3 times.(¾ñ‘ıÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "12345678" 3 times.(ĞÃöÑùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¨‰ñûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±³íÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‘Ù‚
+0
+java:S1220""Move this file to a named package.
+j
+java:S2095n"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(â…ÍÆÿÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ä¢ôŞüÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(©˜îá
+Q
+java:S6437"6Revoke and change this password, as it is compromised.(ä¢ôŞüÿÿÿÿ
+7
+java:S11165"Remove this empty statement.(ôŸìúÿÿÿÿ
+c	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÏºŠ
+Q
+java:S6437W"6Revoke and change this password, as it is compromised.(òÙäîûÿÿÿÿ
+L
+java:S6437l"6Revoke and change this password, as it is compromised.(®öÒ¹
