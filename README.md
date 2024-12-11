@@ -25,6 +25,15 @@ These screenshots showcase the user authentication flow in the application:
 
 <img width="832" alt="SCR-20241211-pqrh" src="https://github.com/user-attachments/assets/55a51263-a9d0-4568-8202-73573c93b61a" />
 
+4. After a successful login, the notes interface opens. Users can:
+
+-Save new notes by selecting a role (student or employee).
+
+-View all saved notes.
+
+This interface provides an easy way for users to manage their notes.
+<img width="773" alt="SCR-20241211-prep" src="https://github.com/user-attachments/assets/2de16c90-28e4-476d-a5b9-8e25c488143e" />
+
 
 
 
